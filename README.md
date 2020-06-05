@@ -10,6 +10,7 @@ Supported algorithsm :
 UI has 4 Sorting buttons , 1 shuffle button and 2 sliders.
 
 1st slider is for arraysize
+
 2nd slider is for delay
 
 Inspired by GreerViau.
