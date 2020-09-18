@@ -13,4 +13,4 @@ UI has 4 Sorting buttons , 1 shuffle button and 2 sliders.
 
 2nd slider is for delay
 
-!(not found)[https://raw.githubusercontent.com/AmanParmar-git/Sorting-Visualizer/master/sort.PNG]
+![not found](https://raw.githubusercontent.com/AmanParmar-git/Sorting-Visualizer/master/sort.PNG)
